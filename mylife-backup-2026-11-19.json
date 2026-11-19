@@ -1,0 +1,221 @@
+{
+  "version": 1,
+  "records": {
+    "journal": [
+      {
+        "id": "f0055895-554f-4bc1-9e59-3bca9cb9da5f",
+        "date": "2026-11-13",
+        "mood": "Good",
+        "happiness": 7,
+        "energy": 6,
+        "productivity": 7,
+        "selfCare": 6,
+        "stress": 4,
+        "rating": 7,
+        "habits": [
+          "Wake Up Early",
+          "Healthy Eating",
+          "Drink Enough Water",
+          "Exercise / Walking",
+          "Skincare",
+          "Study"
+        ],
+        "demo": true
+      },
+      {
+        "id": "faef15b9-d299-4ba2-9bb0-e09e8f7b487c",
+        "date": "2026-11-14",
+        "mood": "Happy",
+        "happiness": 8,
+        "energy": 7,
+        "productivity": 8,
+        "selfCare": 7,
+        "stress": 3,
+        "rating": 8,
+        "habits": [
+          "Wake Up Early",
+          "Healthy Eating",
+          "Drink Enough Water",
+          "Exercise / Walking",
+          "Skincare"
+        ],
+        "demo": true
+      },
+      {
+        "id": "50b3048e-d928-46fc-948d-d5246869c87a",
+        "date": "2026-11-15",
+        "mood": "Okay",
+        "happiness": 6,
+        "energy": 5,
+        "productivity": 6,
+        "selfCare": 7,
+        "stress": 5,
+        "rating": 6,
+        "habits": [
+          "Wake Up Early",
+          "Healthy Eating",
+          "Drink Enough Water",
+          "Exercise / Walking",
+          "Skincare",
+          "Study"
+        ],
+        "demo": true
+      },
+      {
+        "id": "fb6199df-70ef-4ffe-9d7f-1867b8383c1b",
+        "date": "2026-11-16",
+        "mood": "Amazing",
+        "happiness": 9,
+        "energy": 8,
+        "productivity": 9,
+        "selfCare": 8,
+        "stress": 2,
+        "rating": 9,
+        "habits": [
+          "Wake Up Early",
+          "Healthy Eating",
+          "Drink Enough Water",
+          "Exercise / Walking",
+          "Skincare"
+        ],
+        "demo": true
+      },
+      {
+        "id": "d2c7b285-9144-44cf-8c85-f7dde98a7d6e",
+        "date": "2026-11-17",
+        "mood": "Good",
+        "happiness": 7,
+        "energy": 6,
+        "productivity": 7,
+        "selfCare": 6,
+        "stress": 4,
+        "rating": 7,
+        "habits": [
+          "Wake Up Early",
+          "Healthy Eating",
+          "Drink Enough Water",
+          "Exercise / Walking",
+          "Skincare",
+          "Study"
+        ],
+        "demo": true
+      },
+      {
+        "id": "17a62583-1751-4943-825d-80cdae2424e5",
+        "date": "2026-11-18",
+        "mood": "Happy",
+        "happiness": 8,
+        "energy": 8,
+        "productivity": 8,
+        "selfCare": 8,
+        "stress": 3,
+        "rating": 8,
+        "habits": [
+          "Wake Up Early",
+          "Healthy Eating",
+          "Drink Enough Water",
+          "Exercise / Walking",
+          "Skincare"
+        ],
+        "demo": true
+      },
+      {
+        "id": "02972fb3-5d4d-4736-bd72-af0d8e6b96a3",
+        "date": "2026-11-19",
+        "mood": "Good",
+        "happiness": 7,
+        "energy": 7,
+        "productivity": 7,
+        "selfCare": 7,
+        "stress": 4,
+        "rating": 7,
+        "habits": [
+          "Wake Up Early",
+          "Healthy Eating",
+          "Drink Enough Water",
+          "Exercise / Walking",
+          "Skincare",
+          "Study"
+        ],
+        "demo": true
+      }
+    ],
+    "weight": [],
+    "meal": [],
+    "water": [],
+    "activity": [],
+    "workout": [],
+    "sleep": [],
+    "cycle": [],
+    "subject": [
+      {
+        "id": "0c5326b8-330d-4eb2-9b06-48567e88afd0",
+        "name": "Design",
+        "coefficient": 2,
+        "semester": "Semester 1",
+        "demo": true
+      }
+    ],
+    "grade": [],
+    "assignment": [],
+    "exam": [],
+    "studySession": [],
+    "project": [
+      {
+        "id": "54446a25-6dde-4771-8d76-75f3958cbc5f",
+        "name": "Lumiweb sample project",
+        "type": "Invitation website",
+        "client": "Sample client",
+        "status": "In Progress",
+        "startDate": "2026-11-15",
+        "deadline": "2026-11-26",
+        "price": 18000,
+        "demo": true
+      }
+    ],
+    "client": [],
+    "order": [],
+    "businessTask": [],
+    "businessTransaction": [],
+    "portfolio": [],
+    "income": [
+      {
+        "id": "798f2129-5900-499a-b259-0fa153a5bf12",
+        "amount": 12000,
+        "source": "Freelance work",
+        "category": "Work",
+        "date": "2026-11-17",
+        "demo": true
+      }
+    ],
+    "expense": [
+      {
+        "id": "941425d8-4292-43c5-9f68-be47375e1b2a",
+        "amount": 1800,
+        "category": "Food",
+        "date": "2026-11-18",
+        "description": "Sample expense",
+        "demo": true
+      }
+    ],
+    "savings": [],
+    "budget": [],
+    "event": []
+  },
+  "habits": [
+    "Wake Up Early",
+    "Healthy Eating",
+    "Drink Enough Water",
+    "Exercise / Walking",
+    "Skincare",
+    "Study",
+    "Work on Lumiweb",
+    "Sleep on Time"
+  ],
+  "settings": {
+    "theme": "pink",
+    "currency": "DZD",
+    "waterGoal": 2000,
+    "lastBackupAt": "2026-11-19T09:31:27.917Z"
+  }
+}
